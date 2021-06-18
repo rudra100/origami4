@@ -1,0 +1,35 @@
+h1 {color :blank
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.grid {background-color: blue;
+display: flex;
+justify-content: space-between;
+margin: 30px;
+}
+.origami {
+    border-radius: 20;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    font-family: fantasy;
+}
+.origami:hover {
+    transform:scale(1.2);
+}
+    a:link{
+        color :white
+    }
+    a:visited{
+        color: orange;
+    }
+    
+
+
+body {
+    margin: 0px;
+}
